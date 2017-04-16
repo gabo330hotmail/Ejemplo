@@ -1,0 +1,29 @@
+spring:
+  mvc:
+    async:
+      request-timeout: 300
+    
+    dispatch-trace-request: false
+    dispatch-options-request: true
+    favicon:
+      enabled: true
+      
+  thymeleaf:
+    cache: true
+    check-template: true
+    check-template-location: true
+    enabled: true
+   
+  
+    
+    
+    
+     
+      
+    
+      
+    
+          
+     
+      
+
